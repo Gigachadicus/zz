@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/physioFit/static/css/main.ba9de32f.css",
+    "main.js": "/physioFit/static/js/main.c21f6a68.js",
+    "static/js/453.a05bf1fa.chunk.js": "/physioFit/static/js/453.a05bf1fa.chunk.js",
+    "index.html": "/physioFit/index.html",
+    "main.ba9de32f.css.map": "/physioFit/static/css/main.ba9de32f.css.map",
+    "main.c21f6a68.js.map": "/physioFit/static/js/main.c21f6a68.js.map",
+    "453.a05bf1fa.chunk.js.map": "/physioFit/static/js/453.a05bf1fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba9de32f.css",
+    "static/js/main.c21f6a68.js"
+  ]
+}
